@@ -7,6 +7,8 @@ public class Student
     // create properties that will give the Student blueprint their characteristics
     public string Name { get; set; }
     public int ID { get; set; }
+    public double Grade { get; set; }
+    public double Average { get; set; }
 
     public List<double> Grades { get; set; } = new List<double>(); // initialize a list that will be populated with student grades
 
@@ -25,13 +27,12 @@ public class Student
     // create a method that will calculate the average grade of the class
     public double CalculateAverageGrade()
     {
-        double averageGrade = Grades.Average(); // find the average of grades in Grades List and store it in a variable
-        if (Grades.Count == 0) // if Grades List is empty
+        if (Grades == null || Grades.Count == 0)
         {
-            return 0; // output zero
+            return 0;
         }
 
-        return averageGrade; // otherwise, return averageGrade
+        return Grades.Average();
     }
 }
 
