@@ -1,0 +1,15 @@
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\bin\Debug\net10.0\TeacherGradeBook.exe
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\bin\Debug\net10.0\TeacherGradeBook.deps.json
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\bin\Debug\net10.0\TeacherGradeBook.runtimeconfig.json
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\bin\Debug\net10.0\TeacherGradeBook.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\bin\Debug\net10.0\TeacherGradeBook.pdb
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\obj\Debug\net10.0\TeacherGradeBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\obj\Debug\net10.0\TeacherGradeBook.AssemblyInfoInputs.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\obj\Debug\net10.0\TeacherGradeBook.AssemblyInfo.cs
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\obj\Debug\net10.0\TeacherGradeBook.csproj.CoreCompileInputs.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\obj\Debug\net10.0\TeacherGradeBook.sourcelink.json
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\obj\Debug\net10.0\TeacherGradeBook.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\obj\Debug\net10.0\refint\TeacherGradeBook.dll
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\obj\Debug\net10.0\TeacherGradeBook.pdb
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\obj\Debug\net10.0\TeacherGradeBook.genruntimeconfig.cache
+C:\Users\the_g\OneDrive\Desktop\Repos\TeacherGradeBook\TeacherGradeBook\obj\Debug\net10.0\ref\TeacherGradeBook.dll

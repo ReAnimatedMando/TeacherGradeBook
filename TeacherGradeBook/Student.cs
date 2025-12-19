@@ -1,4 +1,6 @@
-﻿namespace TeacherGradeBook;
+﻿using System;
+
+namespace TeacherGradeBook;
 
 public class Student
 {
