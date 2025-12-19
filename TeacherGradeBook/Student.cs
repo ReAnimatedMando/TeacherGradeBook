@@ -19,5 +19,17 @@ public class Student
     {
         Grades.AddRange(grades); // use AddRange method to add grades to Grades List
     }
+    
+    // create a method that will calculate the average grade of the class
+    public double CalculateAverageGrade()
+    {
+        double averageGrade = Grades.Average(); // find the average of grades in Grades List and store it in a variable
+        if (Grades.Count == 0) // if Grades List is empty
+        {
+            return 0; // output zero
+        }
+
+        return averageGrade; // otherwise, return averageGrade
+    }
 }
 
